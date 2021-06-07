@@ -1,0 +1,14 @@
+finish() {
+	_getch();
+}
+nextLine() {
+	printf("\n");
+}
+star() {
+	printf("Åö");
+}
+main() {
+	star();
+	nextLine();
+	finish();
+	}
